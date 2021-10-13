@@ -1,6 +1,6 @@
 /*practice*/
 
-int main()
+int main() hi 4
 {
 	return 0;
 }
